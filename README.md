@@ -3,7 +3,7 @@
      <td style="width: 100%;">
       <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" width="100%" style="border-radius: 100%;"/>
     </td>
-    <td valign="center" heigth="100">
+    <td valign="center" heigth="100%">
       <h1>Vinicius Magalhães</h1>
     </td>
   </tr>
