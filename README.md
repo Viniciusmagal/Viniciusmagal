@@ -1,4 +1,4 @@
-<table>
+<table style="width: 100%;">
   <tr>
     <td>
       <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" width="100" height="100" style="border-radius: 50%;"/>
