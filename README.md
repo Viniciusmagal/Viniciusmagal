@@ -1,12 +1,10 @@
-# Vinicius Magalhães
+# <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" width="50" height="50"/> Vinicius Magalhães
 
 👨‍💻 Estudante de programação no IF | Desenvolvedor
 
 📧 Entre em contato comigo: <a align="left" href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"/>
     </a>
-
-
 
 ## Linguagens e Ferramentas
 
@@ -48,7 +46,6 @@
   - Escola: SENAI Bragança Paulista
   - Período: Ago 2023 - Out 2023
   - Habilidades: Azure DevOps Server, Azure DevOps, Microsoft Azure Machine Learning, AI-900
-
 
 ## GitHub Stats
 
