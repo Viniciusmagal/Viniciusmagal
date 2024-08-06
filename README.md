@@ -1,6 +1,6 @@
 <table style="width: 100%;">
   <tr>
-     <td style="width: 15%;">
+     <td style="width: 100%;">
       <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" width="100%" style="border-radius: 50%;"/>
     </td>
     <td valign="middle" heigth="100">
