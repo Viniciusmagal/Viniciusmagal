@@ -3,7 +3,7 @@
     <td style="width: 30%; padding: 0; text-align: center;">
       <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" style="width: 100%; height: auto; border-radius: 50%;"/>
     </td>
-    <td style="width: 70%; vertical-align: middle;">
+    <td style="width: 100%; vertical-align: middle;">
       <h1 style="margin: 0;">Vinicius Magalhães</h1>
       <p>👨‍💻 Estudante de programação no IF | Desenvolvedor</p>
       <p>📧 Entre em contato comigo: <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
