@@ -2,17 +2,17 @@
 
 👨‍💻 Estudante de programação no IF | Desenvolvedor
 
-📧 Entre em contato comigo: <a align="left" href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" height="30"/>
+📧 Entre em contato comigo: <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"/>
     </a>
 
 ## Linguagens e Ferramentas
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/Viniciusmagal/Apps" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
     </a>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -59,8 +59,7 @@
 
 ## Social
 
-<p align="left">
-    &nbsp;&nbsp;
+<p align="center">
     <a href="https://www.linkedin.com/in/vinicius-magalhães-5137402b9/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
