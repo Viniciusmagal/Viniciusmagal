@@ -1,19 +1,17 @@
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-     <td style="width: 100%;">
-      <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" width="100%" style="border-radius: 100%;"/>
+    <td style="width: 30%; padding: 0; text-align: center;">
+      <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" style="width: 100%; height: auto; border-radius: 50%;"/>
     </td>
-    <td valign="center" heigth="100%">
-      <h1>Vinicius Magalhães</h1>
+    <td style="width: 70%; vertical-align: middle;">
+      <h1 style="margin: 0;">Vinicius Magalhães</h1>
+      <p>👨‍💻 Estudante de programação no IF | Desenvolvedor</p>
+      <p>📧 Entre em contato comigo: <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"/>
+      </a></p>
     </td>
   </tr>
 </table>
-
-👨‍💻 Estudante de programação no IF | Desenvolvedor
-
-📧 Entre em contato comigo: <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"/>
-    </a>
 
 ## Linguagens e Ferramentas
 
