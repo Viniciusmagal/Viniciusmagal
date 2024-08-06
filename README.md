@@ -1,6 +1,6 @@
 # Vinicius Magalhães
 
-👨‍💻 Estudante de programação na USF | Desenvolvedor
+👨‍💻 Estudante de programação no IF | Desenvolvedor
 
 📧 Entre em contato comigo: <a align="left" href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"/>
