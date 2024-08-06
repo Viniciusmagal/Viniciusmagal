@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmagal" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmagal&layout=compact&langs_count=8&card_width=495" alt="Top Langs" />
 </p>
 
 ## Social
