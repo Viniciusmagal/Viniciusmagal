@@ -1,4 +1,13 @@
-# <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" width="80" height="100" style="border-radius: 50%;"/> Vinicius Magalhães
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" width="100" height="100" style="border-radius: 50%;"/>
+    </td>
+    <td valign="middle">
+      <h1>Vinicius Magalhães</h1>
+    </td>
+  </tr>
+</table>
 
 👨‍💻 Estudante de programação no IF | Desenvolvedor
 
