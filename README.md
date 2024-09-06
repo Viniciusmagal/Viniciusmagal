@@ -55,7 +55,7 @@
   - Habilidades: Azure DevOps Server, Azure DevOps, Microsoft Azure Machine Learning, AI-900
 
 
-    - **Análise e Desenvolvimento de Sistemas**
+ - **Análise e Desenvolvimento de Sistemas**
     - Instituto Federal
     - Período: 2024 - 2026
     
