@@ -56,7 +56,7 @@
 
 
     - **Análise e Desenvolvimento de Sistemas**
-    - - Instituto Federal
+    - Instituto Federal
     - Período: 2024 - 2026
     
 ## GitHub Stats
