@@ -50,9 +50,6 @@
       <a href="https://github.com/Viniciusmagal/Web-projects" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
 </a>
-<a href="https://www.microsoft.com/pt-br/microsoft-365" target="_blank" rel="noreferrer">
-  <img src="https://static.vecteezy.com/ti/vetor-gratis/t1/14018577-logotipo-do-escritorio-ms-em-fundo-transparente-gratis-vetor.jpg" alt="Microsoft Office" width="50" height="50" />
-</a>
 
   <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🎓 Formação Acadêmica</h1>
     <ul style="list-style-type: none; padding-left: 0;">
