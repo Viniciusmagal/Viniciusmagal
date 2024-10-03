@@ -50,10 +50,6 @@
       <a href="https://github.com/Viniciusmagal/Web-projects" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
       </a>
-    </p>
-        <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/14018577-logotipo-do-escritorio-ms-em-fundo-transparente-gratis-vetor.jpg" alt="office" width="50" height="50" />
-    </p>
-
   <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🎓 Formação Acadêmica</h1>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="font-size: 16px; margin-bottom: 10px; color: #555;">
