@@ -72,12 +72,7 @@
     <p style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="Vinicius Magalhães' GitHub Stats" style="width: 70%; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
     </p>
-    # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Viniciusmagal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Viniciusmagal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmagal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+   
   </div>
 
 </div>
