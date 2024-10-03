@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
 </a>
 <a href="https://www.microsoft.com/pt-br/microsoft-365" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Microsoft_Office_logo_%282019-2021%29.svg" alt="Microsoft Office" width="50" height="50" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2b/Microsoft_Office_logo_%282019-2021%29.svg](https://e7.pngegg.com/pngimages/462/265/png-clipart-microsoft-office-365-computer-icons-office-online-office-angle-rectangle-thumbnail.png)" alt="Microsoft Office" width="50" height="50" />
 </a>
 
   <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🎓 Formação Acadêmica</h1>
