@@ -51,7 +51,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
       </a>
     </p>
-        <img src="https://w7.pngwing.com/pngs/9/673/png-transparent-microsoft-office-logo-png-thumbnail.png" alt="office" width="50" height="50" />
+        <img src="https://static.vecteezy.com/ti/vetor-gratis/t1/14018577-logotipo-do-escritorio-ms-em-fundo-transparente-gratis-vetor.jpg" alt="office" width="50" height="50" />
     </p>
 
   <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🎓 Formação Acadêmica</h1>
