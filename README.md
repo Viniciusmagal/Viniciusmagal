@@ -13,6 +13,9 @@
       <a href="https://www.linkedin.com/in/vinicius-magalhães-5137402b9/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
       </a>
+       <a href="https://www.instagram.com/vinicius.magalhaesss/" target="_blank" rel="noreferrer">
+        <img src="https://d1muf25xaso8hp.cloudfront.net/https://img.criativodahora.com.br/2024/01/criativo-65946738a901dMDIvMDEvMjAyNCAxNmg0Mg==.jpg?w=1000&h=&auto=compress&dpr=1&fit=max" width="40" height="40" />
+      </a>
     </p>
   </div>
 
