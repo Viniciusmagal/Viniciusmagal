@@ -26,7 +26,7 @@
     </p>
     <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🛠️ Linguagens e Ferramentas</h1>
     <p style="display: flex; justify-content: start; gap: 15px; flex-wrap: wrap;">
-      <a href="https://github.com/Viniciusmagal/Apps" target="_blank" rel="noreferrer">
+      <a href="https://github.com/Viniciusmagal/mobileapps" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50" />
       </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
