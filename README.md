@@ -70,8 +70,8 @@
     </ul>
     <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">📊 GitHub Stats</h1>
     <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="width: 48%; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
     </div>
   </div>
 
