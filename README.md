@@ -8,7 +8,9 @@
     <p style="font-size: 16px; color: #555; margin-bottom: 30px;">👨‍💻 Desenvolvedor Full Stack | Estudante de Programação</p>
     <h3 style="font-size: 18px; font-weight: bold; color: #007bff;">📧 Contato</h3>
     <p style="font-size: 16px;">
-      <a href="mailto:lucavimagal@gmail.com" style="color: #007bff; text-decoration: none;">lucavimagal@gmail.com</a>
+     <a href="mailto:lucavimagal@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
     </p>
     <h3 style="font-size: 18px; font-weight: bold; color: #007bff;">🌐 Redes Sociais</h3>
     <p>
