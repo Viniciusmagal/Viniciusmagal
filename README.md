@@ -79,5 +79,5 @@
 
 </div>
 <div style="margin-top: 20px;">
-    <img src="https://github.com/ViniciusMagal/ViniciusMagal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%; max-width: 500px; height: auto;" />
+    <img src="https://github.com/Viniciusmagal/Viniciusmagal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%; max-width: 500px; height: auto;" />
 </div>
