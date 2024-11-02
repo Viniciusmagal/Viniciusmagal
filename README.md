@@ -1,44 +1,25 @@
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<style>
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
-  
-  .nome-animado {
-    color: red; /* Muda a cor do texto para vermelho */
-    animation: fadeIn 2s ease-in forwards; /* Animação de desvanecimento */
-    display: none; /* Inicialmente oculto */
-  }
-  
-  .show-name {
-    display: block; /* Torna visível quando a classe show-name é adicionada */
-  }
-</style>
 
 <div style="display: flex; align-items: flex-start; padding: 20px; background-color: #ffffff; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
 
   <div style="flex: 30%; max-width: 300px; padding-right: 20px; background-color: #f4f4f9; border-radius: 10px; padding: 20px; text-align: center;">
     <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 3px solid #007bff;" />
-    <h2 id="nome" class="nome-animado">Vinicius Magalhães</h2>
+    <h2 style="font-size: 24px; font-weight: bold; color: #333; margin-top: 10px;" class ="nome-animado">Vinicius Magalhães</h2>
     <p style="font-size: 16px; color: #555; margin-bottom: 30px;">👨‍💻 Desenvolvedor Full Stack | Estudante de Programação</p>
     <h3 style="font-size: 18px; font-weight: bold; color: #007bff;">📧 Contato</h3>
     <p style="font-size: 16px;">
-      <a href="mailto:lucavimagal@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-      </a>
+     <a href="mailto:lucavimagal@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
     </p>
     <h3 style="font-size: 18px; font-weight: bold; color: #007bff;">🌐 Redes Sociais</h3>
     <p>
       <a href="https://www.linkedin.com/in/vinicius-magalhães-5137402b9/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
       </a>
-      <a href="https://www.instagram.com/vinicius.magalhaesss/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+       <a href="https://www.instagram.com/vinicius.magalhaesss/" target="_blank" rel="noreferrer">
+         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
       </a>
     </p>
   </div>
@@ -48,7 +29,7 @@
     <p style="font-size: 16px; line-height: 1.6; color: #555;">
       Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal e buscando me aprofundar no desenvolvimento Full Stack. Tenho experiência em diversas tecnologias como JavaScript, PHP, MySQL, entre outras, e estou sempre em busca de novos conhecimentos.
     </p>
-    <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🛠️ Linguagens e Ferramentas</h1>
+     <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🛠️ Linguagens e Ferramentas</h1>
     <p style="display: flex; justify-content: start; gap: 15px; flex-wrap: wrap;">
       <a href="https://github.com/Viniciusmagal/mobileapps" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="mobileappimg" width="40" height="40" />
@@ -72,14 +53,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
       </a>
       <a href="https://github.com/Viniciusmagal/Web-projects" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-      </a>
-    </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+</a>
 
-    <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🎓 Formação Acadêmica</h1>
+  <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🎓 Formação Acadêmica</h1>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="font-size: 16px; margin-bottom: 10px; color: #555;">
-        <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+      <strong>Análise e Desenvolvimento de Sistemas</strong><br>
         Instituto Federal de São Paulo (2024 - 2026)
       </li>
       <li style="font-size: 16px; margin-bottom: 10px; color: #555;">
@@ -99,16 +79,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
     </div>
   </div>
-</div>
 
+</div>
 <div align="center">
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-</div>
 
-<script>
-  // Aguarde até que a página esteja totalmente carregada
-  window.onload = function() {
-    const nomeElement = document.getElementById('nome');
-    nomeElement.classList.add('show-name'); // Adiciona a classe para mostrar o nome
-  };
-</script>
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
