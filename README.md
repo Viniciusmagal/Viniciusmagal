@@ -1,10 +1,30 @@
+<style>
+    @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .nome-animado {
+    color: red; /* Cor vermelha para o nome */
+    font-size: 24px;
+    font-weight: bold;
+    animation: fadeIn 2s ease-in; /* Duração e tipo da animação */
+    opacity: 0; /* Inicia invisível */
+    animation-fill-mode: forwards; /* Mantém a opacidade no final da animação */
+  }
+</style>
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div style="display: flex; align-items: flex-start; padding: 20px; background-color: #ffffff; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
 
   <div style="flex: 30%; max-width: 300px; padding-right: 20px; background-color: #f4f4f9; border-radius: 10px; padding: 20px; text-align: center;">
     <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 3px solid #007bff;" />
-    <h2 style="font-size: 24px; font-weight: bold; color: #333; margin-top: 10px;">Vinicius Magalhães</h2>
+    <h2 style="font-size: 24px; font-weight: bold; color: #333; margin-top: 10px;" class ="nome-animado">Vinicius Magalhães</h2>
     <p style="font-size: 16px; color: #555; margin-bottom: 30px;">👨‍💻 Desenvolvedor Full Stack | Estudante de Programação</p>
     <h3 style="font-size: 18px; font-weight: bold; color: #007bff;">📧 Contato</h3>
     <p style="font-size: 16px;">
