@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <div style="display: flex; align-items: flex-start; padding: 20px; background-color: #ffffff; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
 
   <div style="flex: 30%; max-width: 300px; padding-right: 20px; background-color: #f4f4f9; border-radius: 10px; padding: 20px; text-align: center;">
@@ -27,7 +29,7 @@
     <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🛠️ Linguagens e Ferramentas</h1>
     <p style="display: flex; justify-content: start; gap: 15px; flex-wrap: wrap;">
       <a href="https://github.com/Viniciusmagal/mobileapps" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50" />
+<i class="devicon-android-plain"></i>
       </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" />
