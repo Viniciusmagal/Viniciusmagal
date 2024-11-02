@@ -29,7 +29,7 @@
      <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🛠️ Linguagens e Ferramentas</h1>
     <p style="display: flex; justify-content: start; gap: 15px; flex-wrap: wrap;">
       <a href="https://github.com/Viniciusmagal/mobileapps" target="_blank" rel="noreferrer">
-        <i class="devicon-android-plain" style="font-size: 50px; color: #3ddc84;"></i>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
       </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" />
