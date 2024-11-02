@@ -39,6 +39,15 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
       </a>
       <a href="https://github.com/Viniciusmagal/Web-projects" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+      </a>
+      <a href="https://github.com/Viniciusmagal/Web-projects" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
 </a>
 
@@ -59,18 +68,11 @@
         Competências: Azure DevOps, Azure Machine Learning, Microsoft AI-900.
       </li>
     </ul>
-
     <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">📊 GitHub Stats</h1>
     <p style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="Vinicius Magalhães' GitHub Stats" style="width: 70%; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
     </p>
-    
-    <!-- Linguagens Mais Usadas -->
-    <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🌟 Linguagens Mais Usadas</h1>
-    <p style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="width: 70%; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
-    </p>
-
+   
   </div>
 
 </div>
