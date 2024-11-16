@@ -26,7 +26,7 @@
   <div style="flex: 70%; padding-left: 20px;">
     <h1 style="font-size: 28px; margin-bottom: 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🚀 Sobre Mim</h1>
     <p style="font-size: 16px; line-height: 1.6; color: #555;">
-      Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal e buscando me aprofundar no desenvolvimento Full Stack. Tenho experiência em diversas tecnologias como JavaScript, PHP, MySQL, entre outras, e estou sempre em busca de novos conhecimentos.
+      Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal e buscando me aprofundar no desenvolvimento Web. Tenho experiência em diversas tecnologias como JavaScript, PHP, MySQL, entre outras, e estou sempre em busca de novos conhecimentos.
     </p>
     <h1 style="font-size: 28px; margin: 40px 0 20px; color: #333; border-bottom: 2px solid #007bff; padding-bottom: 5px;">🛠️ Linguagens e Ferramentas</h1>
     <p style="display: flex; justify-content: start; gap: 15px; flex-wrap: wrap;">
