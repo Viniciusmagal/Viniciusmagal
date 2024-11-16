@@ -5,7 +5,7 @@
   <div style="flex: 30%; max-width: 300px; padding-right: 20px; background-color: #f4f4f9; border-radius: 10px; padding: 20px; text-align: center;">
     <img src="https://avatars.githubusercontent.com/u/162904345?v=4" alt="Vinicius Magalhães" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 3px solid #007bff;" />
     <h2 style="font-size: 24px; font-weight: bold; color: #333; margin-top: 10px;" class="nome-animado">Vinicius Magalhães</h2>
-    <p style="font-size: 16px; color: #555; margin-bottom: 30px;">👨‍💻 Desenvolvedor Full Stack | Estudante de Programação</p>
+    <p style="font-size: 16px; color: #555; margin-bottom: 30px;">👨‍💻 | Estudante de Programação</p>
     <h3 style="font-size: 18px; font-weight: bold; color: #007bff;">📧 Contato</h3>
     <p style="font-size: 16px;">
       <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
