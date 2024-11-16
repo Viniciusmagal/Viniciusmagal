@@ -9,7 +9,7 @@
     <h3 style="font-size: 18px; font-weight: bold; color: #007bff;">📧 Contato</h3>
     <p style="font-size: 16px;">
       <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="35" height="35" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Email" width="35" height="35" />
       </a>
     </p>
     <h3 style="font-size: 18px; font-weight: bold; color: #007bff;">🌐 Redes Sociais</h3>
