@@ -75,4 +75,7 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
   <a href="https://github.com/Viniciusmagal" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
+    <a href="viniciusmagal.github.io/curriculo/" target="_blank">
+    <img src="https://png.pngtree.com/png-vector/20190419/ourmid/pngtree-vector-resume-icon-png-image_957149.jpg" alt="curriculo" width="40" height="40" />
+  </a>
 </div> 
