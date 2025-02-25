@@ -5,10 +5,6 @@ Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas no Insti
 ## 👨‍💻 Sobre Mim
 
 Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal e buscando me aprofundar no desenvolvimento Web. Tenho experiência em diversas tecnologias como JavaScript, PHP, MySQL, entre outras, e estou sempre em busca de novos conhecimentos.
-## 👀 Visitas ao Perfil
-
-![Visitas](https://badgen.net/https/visitor-badge.glitch.me/ViniciusMagal) 
-
 
 🛠️ Linguagens e Ferramentas
 
