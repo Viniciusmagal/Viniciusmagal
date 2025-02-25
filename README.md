@@ -1,23 +1,6 @@
-# <span style="animation: fadeIn 1s ease-in-out;">Olá, me chamo Vinícius Magalhães 👋</span>  
-<span style="animation: fadeIn 1s ease-in-out 1s forwards; opacity: 0;">Tenho 19 anos</span>  
-<span style="animation: fadeIn 1s ease-in-out 2s forwards; opacity: 0;">Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal</span>
-
-<style>
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  span {
-    display: block;
-    margin: 5px 0;
-  }
-</style>
+# Olá, me chamo Vinícius Magalhães 👋  
+Tenho 19 anos  
+Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal
 
 ## 👨‍💻 Sobre Mim
 
