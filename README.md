@@ -35,7 +35,7 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
   </a>
 </div>
 
-## � Formação Acadêmica
+## 📚 Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas**  
   Instituto Federal de São Paulo (2024 - 2026)
