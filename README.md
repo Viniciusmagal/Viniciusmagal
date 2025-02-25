@@ -1,9 +1,14 @@
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Perfil - Vinícius Magalhães</title>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <style>
     body {
-      font-family: 'Roboto', sans-serif;
-      background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f5;
       margin: 0;
       padding: 0;
       display: flex;
@@ -16,18 +21,17 @@
     /* Texto animado no topo */
     .intro-text {
       position: fixed;
-      top: 30px;
+      top: 20px;
       left: 50%;
       transform: translateX(-50%);
-      font-size: 26px;
-      font-weight: 500;
-      color: #fff;
-      background: linear-gradient(90deg, #007bff, #00c6ff);
-      padding: 12px 24px;
-      border-radius: 30px;
+      font-size: 24px;
+      font-weight: bold;
+      color: #007bff;
+      background: rgba(255, 255, 255, 0.9);
+      padding: 10px 20px;
+      border-radius: 5px;
       opacity: 0;
-      animation: fadeInOut 5s ease-in-out forwards;
-      box-shadow: 0 4px 15px rgba(0, 123, 255, 0.4);
+      animation: fadeInOut 4s ease-in-out forwards;
       z-index: 1000;
     }
 
@@ -54,12 +58,12 @@
       display: flex;
       align-items: flex-start;
       padding: 20px;
-      background-color: #fff;
+      background-color: #ffffff;
       border-radius: 15px;
-      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
       max-width: 900px;
-      width: 90%;
-      margin-top: 120px;
+      width: 100%;
+      margin-top: 100px; /* Para evitar sobreposição com o texto animado */
     }
 
     .sidebar {
@@ -77,11 +81,6 @@
       height: 150px;
       object-fit: cover;
       border: 3px solid #007bff;
-      transition: transform 0.3s ease;
-    }
-
-    .sidebar img:hover {
-      transform: scale(1.05);
     }
 
     .content {
@@ -97,32 +96,9 @@
       padding-bottom: 5px;
     }
 
-    h2 {
-      font-size: 24px;
-      color: #333;
-      margin: 10px 0;
-    }
-
-    h3 {
-      font-size: 20px;
-      color: #007bff;
-      margin: 15px 0 10px;
-    }
-
     p {
       font-size: 16px;
       color: #555;
-      line-height: 1.6;
-    }
-
-    a {
-      text-decoration: none;
-      color: inherit;
-      transition: color 0.3s ease;
-    }
-
-    a:hover {
-      color: #007bff;
     }
   </style>
 </head>
@@ -150,8 +126,7 @@
         </a>
       </p>
     </div>
-
-    <div class="content">
+  <div class="content">
       <h1>🚀 Sobre Mim</h1>
       <p>
         Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal e buscando me aprofundar no desenvolvimento Web. Tenho experiência em diversas tecnologias como JavaScript, PHP, MySQL, entre outras, e estou sempre em busca de novos conhecimentos.
@@ -186,24 +161,26 @@
       <h1>🎓 Formação Acadêmica</h1>
       <ul style="list-style-type: none; padding-left: 0;">
         <li style="font-size: 16px; margin-bottom: 10px; color: #555;">
-          <strong>Análise e Desenvolvimento de Sistemas</strong><br />
-          Instituto Federal de São Paulo (2024 - 2026)
-        </li>
-        <li style="font-size: 16px; margin-bottom: 10px; color: #555;">
-          <strong>Análise e Desenvolvimento de Sistemas</strong><br />
-          ETEC Prof. Carmine Biagio Tundisi (2021 - 2023)<br />
-          Habilidades: CSS, MySQL, Java, HTML5, PHP, Banco de Dados, Trabalho em Equipe, Análise de Projetos.
-        </li>
-        <li style="font-size: 16px; color: #555;">
-          <strong>Certificação em Inteligência Artificial (AI-900)</strong><br />
-          SENAI Bragança Paulista (Ago 2023 - Out 2023)<br />
-          Competências: Azure DevOps, Azure Machine Learning, Microsoft AI-900.
-        </li>
-      </ul>
-      <h1>📊 GitHub Stats</h1>
-      <div style="display: flex; justify-content: center; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
+  <strong>Análise e Desenvolvimento de Sistemas</strong><br />
+      Instituto Federal de São Paulo (2024 - 2026)
+  </li>
+  <li style="font-size: 16px; margin-bottom: 10px; color: #555;">
+  <strong>Análise e Desenvolvimento de Sistemas</strong><br />
+   ETEC Prof. Carmine Biagio Tundisi (2021 - 2023)<br />
+   Habilidades: CSS, MySQL, Java, HTML5, PHP, Banco de Dados, Trabalho em Equipe, Análise de Projetos.
+   </li>
+   <li style="font-size: 16px; color: #555;">
+   <strong>Certificação em Inteligência Artificial (AI-900)</strong><br />
+  SENAI Bragança Paulista (Ago 2023 - Out 2023)<br />
+   Competências: Azure DevOps, Azure Machine Learning, Microsoft AI-900.
+  </li>
+  </ul>
+  <h1>📊 GitHub Stats</h1>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
       </div>
     </div>
   </div>
+</body>
+</html>
