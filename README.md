@@ -71,3 +71,6 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
 </div>
+![GitHub Stars](https://img.shields.io/github/stars/ViniciusMagal/ViniciusMagal?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/ViniciusMagal?style=social)
+![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
