@@ -5,6 +5,9 @@ Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas no Insti
 ## 👨‍💻 Sobre Mim
 
 Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal e buscando me aprofundar no desenvolvimento Web. Tenho experiência em diversas tecnologias como JavaScript, PHP, MySQL, entre outras, e estou sempre em busca de novos conhecimentos.
+## 👀 Visitas ao Perfil
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=ViniciusMagal&color=blue)
 
 ## 🛠️ Linguagens e Ferramentas
 
@@ -53,7 +56,11 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
 <div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
+
+  
+  
 </div>
+
 
 ## 📧 Contato
 
@@ -71,6 +78,3 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
 </div>
-![GitHub Stars](https://img.shields.io/github/stars/ViniciusMagal/ViniciusMagal?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/ViniciusMagal?style=social)
-![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
