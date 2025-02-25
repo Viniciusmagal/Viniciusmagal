@@ -12,6 +12,7 @@
       position: relative;
       min-height: 100vh;
     }
+    
     /* Texto animado no topo */
     .intro-text {
       position: fixed;
@@ -122,7 +123,7 @@
 
     a:hover {
       color: #007bff;
-      }
+    }
   </style>
 </head>
 <body>
@@ -149,6 +150,7 @@
         </a>
       </p>
     </div>
+
     <div class="content">
       <h1>🚀 Sobre Mim</h1>
       <p>
