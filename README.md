@@ -6,14 +6,14 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
 
 ## 🛠️ Linguagens e Ferramentas
 
-[![Android](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)](https://github.com/Viniciusmagal/mobileapps)
-[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com)
-[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)](https://github.com/Viniciusmagal/Web-projects)
-[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://github.com/Viniciusmagal/Web-projects)
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
-[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)](https://github.com/Viniciusmagal/Web-projects)
+[![Android](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)](https://github.com/Viniciusmagal/mobileapps "Android")
+[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com "Bootstrap")
+[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/ "C#")
+[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)](https://github.com/Viniciusmagal/Web-projects "CSS3")
+[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://github.com/Viniciusmagal/Web-projects "HTML5")
+[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
+[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/ "MySQL")
+[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)](https://github.com/Viniciusmagal/Web-projects "PHP")
 
 ## 🎓 Formação Acadêmica
 
@@ -35,9 +35,9 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
 
 ## 📧 Contato
 
-[![Email](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)](mailto:lucavimagal@gmail.com)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/128px-Gmail_icon_%282020%29.svg.png)](mailto:lucavimagal@gmail.com "Email")
 
 ## 🌐 Redes Sociais
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/vinicius-magalhães-5137402b9/)
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/Viniciusmagal)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/vinicius-magalhães-5137402b9/ "LinkedIn")
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/Viniciusmagal "GitHub")
