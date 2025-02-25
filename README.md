@@ -6,16 +6,34 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
 
 ## 🛠️ Linguagens e Ferramentas
 
-[![Android](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)](https://github.com/Viniciusmagal/mobileapps "Android")
-[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com "Bootstrap")
-[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/ "C#")
-[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)](https://github.com/Viniciusmagal/Web-projects "CSS3")
-[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://github.com/Viniciusmagal/Web-projects "HTML5")
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
-[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/ "MySQL")
-[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)](https://github.com/Viniciusmagal/Web-projects "PHP")
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/Viniciusmagal/mobileapps" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <a href="https://github.com/Viniciusmagal/Web-projects" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://github.com/Viniciusmagal/Web-projects" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://github.com/Viniciusmagal/Web-projects" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  </a>
+</div>
 
-## 🎓 Formação Acadêmica
+## � Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas**  
   Instituto Federal de São Paulo (2024 - 2026)
@@ -30,14 +48,24 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical)
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
+</div>
 
 ## 📧 Contato
 
-[![Email](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/128px-Gmail_icon_%282020%29.svg.png)](mailto:lucavimagal@gmail.com "Email")
+<a href="mailto:lucavimagal@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/128px-Gmail_icon_%282020%29.svg.png" alt="Email" width="40" height="40" />
+</a>
 
 ## 🌐 Redes Sociais
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/vinicius-magalhães-5137402b9/ "LinkedIn")
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/Viniciusmagal "GitHub")
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/vinicius-magalhães-5137402b9/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://github.com/Viniciusmagal" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  </a>
+</div>
