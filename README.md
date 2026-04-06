@@ -1,5 +1,5 @@
 # Olá, me chamo Vinícius Magalhães 👋  
-Tenho 20 anos  
+Tenho 20 anos.
 Estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal
 
 ## 👨‍💻 Sobre Mim
