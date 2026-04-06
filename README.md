@@ -37,11 +37,11 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
 
 ## 📚 Formação Acadêmica
 
-- **Análise e Desenvolvimento de Sistemas**  
+- **Análise e Desenvolvimento de Sistemas (Superior)**  
   Instituto Federal de São Paulo (2024 - 2026)
   Habilidades: CSS, MySQL, C, HTML5, PHP, Banco de Dados, Trabalho em Equipe, C++, JS.
 
-- **Análise e Desenvolvimento de Sistemas**  
+- **Análise e Desenvolvimento de Sistemas (Técnico)**  
   ETEC Prof. Carmine Biagio Tundisi (2021 - 2023)  
   Habilidades: CSS, MySQL, Java, HTML5, PHP, Banco de Dados, Trabalho em Equipe, Análise de Projetos.
 
