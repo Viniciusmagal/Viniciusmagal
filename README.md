@@ -63,7 +63,6 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
 ## 📧 Contato
 
 <a href="mailto:lucavimagal@gmail.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
 
 ## 🌐 Redes Sociais
