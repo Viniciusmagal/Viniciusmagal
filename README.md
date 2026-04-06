@@ -48,14 +48,6 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
 - **Certificação em Inteligência Artificial (AI-900)**  
   SENAI Bragança Paulista (Ago 2023 - Out 2023)  
   Competências: Azure DevOps, Azure Machine Learning, Microsoft AI-900.
-
-## 📊 GitHub Stats
-
-<div style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMagal&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 200px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
-
-  
   
 </div>
 
