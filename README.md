@@ -6,7 +6,7 @@ Estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas no Insti
 
 Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal e buscando me aprofundar no desenvolvimento Web. Tenho experiência em diversas tecnologias como JavaScript, PHP, MySQL, entre outras, e estou sempre em busca de novos conhecimentos.
 
-🛠️ Linguagens e Ferramentas
+## 🛠️ Linguagens e Ferramentas
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/Viniciusmagal/mobileapps" target="_blank">
