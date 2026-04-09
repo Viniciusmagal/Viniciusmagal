@@ -38,7 +38,7 @@ Sou um desenvolvedor que cria soluções inovadoras e funcionais. Atualmente, es
 ## 📚 Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas (Superior)**  
-  Instituto Federal de São Paulo (2024 - 2026)
+  Instituto Federal de São Paulo (2024 - 2027)
   Habilidades: CSS, MySQL, C, HTML5, PHP, Banco de Dados, Trabalho em Equipe, C++, JS.
 
 - **Análise e Desenvolvimento de Sistemas (Técnico)**  
